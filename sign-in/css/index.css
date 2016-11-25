@@ -19,6 +19,7 @@ body{
 }
 div.sign-in{
 	width: 25%;
+	min-width: 380px;
 	position: absolute;
 	right: 10%;
 	background-color: #f6f8f8;
